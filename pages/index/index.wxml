@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+    <cover-image src="{{image}}" style="width:200rpx;height:200rpx">
+    </cover-image>
+</view>
